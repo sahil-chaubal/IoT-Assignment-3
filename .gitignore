@@ -1,0 +1,8 @@
+config.py
+certificates/
+.DS_Store
+__pycache__/
+*.py[cod]
+*.class
+venv/
+ENV/
