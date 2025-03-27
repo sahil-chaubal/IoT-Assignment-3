@@ -26,7 +26,7 @@ AWS IoT Core Configuration
 
         Under Manage → Things, click Create things and choose Create a single thing.
 
-        Provide a unique name (e.g., station001) and complete the setup.
+        Provide a unique name (e.g., IoT) and complete the setup.
 
     Generate and Download Certificates:
 
